@@ -4,6 +4,10 @@ A javascript library for formatting and manipulating numbers.
 
 [Website and documentation](http://numeraljs.com/)
 
+## Devcontainer (alternative to the manual setup below)
+
+A ready-to-use devcontainer is available — see [`.devcontainer/README.md`](.devcontainer/README.md).
+
 
 # Travis Build Status
 
